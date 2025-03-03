@@ -1,0 +1,3 @@
+C:/Users/Dmytro/CLionProjects/bankaccount/cmake-build-debug/CMakeFiles/bankaccount.dir
+C:/Users/Dmytro/CLionProjects/bankaccount/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dmytro/CLionProjects/bankaccount/cmake-build-debug/CMakeFiles/rebuild_cache.dir
